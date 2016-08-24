@@ -10,7 +10,7 @@
    <script src="/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
 <style type="text/css">
 	.box {
-		border: 1px solid red;
+		borwder: 1px solid red;
 	}
 </style>   
    

@@ -6,7 +6,7 @@
 <link href="/resources/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <script src="/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.1/handlebars.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.1/handlebars.js" ></script>
 <title>template.jsp</title>
 </head>
 <body>
@@ -23,7 +23,7 @@
 	<script type="text/javascript">
 	
 	$(document).ready(function(){
-		
+
 		var ctemplate = Handlebars.compile($('#template').html());
 		
 		console.log("xxx = " + ctemplate);

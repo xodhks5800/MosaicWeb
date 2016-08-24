@@ -24,10 +24,5 @@
     "browser",
     "jquery"
   ],
-  "ecmaVersion": 5,
-  "ide": {
-    "scriptPaths": [
-      
-    ]
-  }
+  "ecmaVersion": 5
 }

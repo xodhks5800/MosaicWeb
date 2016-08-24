@@ -1,0 +1,49 @@
+[
+	{
+		"deptno" : 10,
+		"dname" : "총무부",
+		"loc" : "서울"
+	},
+	{
+		"deptno" : 20,
+		"dname" : "순두부",
+		"loc" : "대구"
+	},
+	{
+		"deptno" : 30,
+		"dname" : "연두부",
+		"loc" : "부산"
+	},
+	{
+		"deptno" : 40,
+		"dname" : "취두부",
+		"loc" : "경기"
+	},
+	{
+		"deptno" : 50,
+		"dname" : "기획부",
+		"loc" : "충남"
+	},
+	{
+		"deptno" : 60,
+		"dname" : "사업부",
+		"loc" : "경북"
+	},
+	{
+		"deptno" : 70,
+		"dname" : "관리부",
+		"loc" : "강원"
+	},
+	{
+		"deptno" : 80,
+		"dname" : "안전부",
+		"loc" : "제주"
+	},
+		
+	{
+		"deptno" : 90,
+		"dname" : "보건부",
+		"loc" : "대전"
+	}
+	
+]

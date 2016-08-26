@@ -108,7 +108,7 @@
 		<!--/.col (left) -->
 		<div class="col-md-6">
 			<img class="img-responsive img-circle" alt="xxx" style="width: 100%"
-				src="http://www.loremflickr.com/200/200/dog">
+				src="http://www.loremflickr.com/200/200/cat">
 		</div>
 	</div>
 	<!-- /.row -->

@@ -3,6 +3,9 @@ package org.zerock.domain;
 import java.util.Arrays;
 import java.util.Date;
 
+import org.aspectj.lang.annotation.Aspect;
+
+@Aspect
 public class BoardVO {
 	
 	private Integer bno;

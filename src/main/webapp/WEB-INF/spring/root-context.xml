@@ -13,6 +13,7 @@
 
 	<!-- Root Context: defines shared resources visible to all other web components -->
 
+ 	<!-- aspectj가 자동으로 위빙시켜주는것  -->
 	<aop:aspectj-autoproxy></aop:aspectj-autoproxy>
 
 	<!-- Root Context: defines shared resources visible to all other web components -->

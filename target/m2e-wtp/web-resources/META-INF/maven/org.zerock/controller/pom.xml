@@ -112,7 +112,8 @@
 
 
 
-		<!-- AspectJ -->
+		<!-- AspectJ weaver-->
+<!-- 		실제 aop가 진행되는곳  -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
 			<artifactId>aspectjrt</artifactId>

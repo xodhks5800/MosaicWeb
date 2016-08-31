@@ -2,10 +2,12 @@ package org.zerock.persistence;
 
 import java.util.List;
 
+import org.springframework.stereotype.Component;
 import org.zerock.domain.BoardVO;
 import org.zerock.domain.Criteria;
 import org.zerock.domain.SearchCriteria;
 
+@Component
 public interface BoardDAO {
 
   public void create(BoardVO vo) throws Exception;
